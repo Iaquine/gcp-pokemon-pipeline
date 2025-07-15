@@ -135,5 +135,3 @@ A seguir, a estimativa de custo anual com base nos requisitos da atividade.
   **Custo Estimado**: ~ $373
 
 **Custo Total Anual Estimado**: ≈ $373
-
-Para uma análise detalhada, acesse a simulação na Calculadora de Preços da Google Cloud.
